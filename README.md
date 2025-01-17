@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Ciência da Computação apaixonado por tecnologia, com experiência prática em suporte técnico e desenvolvimento de software. Habilidade em C,Java, Python, HTML, CSS, Git e MySQL, com foco em escrever códigos limpos, eficientes e de fácil manutenção. Entusiasmado para contribuir em projetos desafiadores e inovadores que gerem impacto
+Passionate Computer Science student with hands-on experience in technical support and software development. Skilled in C, Python, HTML, CSS, Git, and MySQL, with a strong focus on writing clean, efficient, and maintainable code. Eager to contribute to innovative and challenging technology projects that make an impact.
 
 
 ## 🌐 Socials:
