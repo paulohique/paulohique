@@ -161,7 +161,8 @@
   <br />
   <img width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paulohique&theme=github_dark" alt="Top languages by repository" />
   <img width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paulohique&theme=github_dark" alt="Top languages by commit" />
- 
+  <br />
+  <br />
   <img width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paulohique&theme=github_dark" alt="GitHub stats" />
   <img width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paulohique&theme=github_dark&utcOffset=-3" alt="Productive time" />
 </div>
