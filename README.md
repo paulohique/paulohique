@@ -2,7 +2,17 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="center">
+  Sou <strong>Paulo Henrique Ferreira dos Santos</strong>, desenvolvedor de software com foco em construir soluções web funcionais, modernas e com boa experiência de uso.
+</p>
+
+<p align="center">
+  Tenho experiência prática com <strong>Next.js, TypeScript, Python e APIs REST</strong>, além de atuar com versionamento, organização de código e evolução contínua dos projetos.
+</p>
+
+<p align="center">
+  Estou em busca de oportunidades como <strong>Desenvolvedor Júnior/Estagiário</strong>, onde eu possa gerar impacto real, aprender com times experientes e crescer junto com o produto.
+</p>
 
 ###
 
@@ -73,7 +83,7 @@
 ###
 
 <div align="center">
-  <img src="https://media.tenor.com/7zG0p8JzK9UAAAAC/puppyhacker.gif" height="220"/>
+  <img src="./assets/puppyhacker.gif" height="220" alt="doguinho mexendo no pc" />
 </div>
 
 ###
@@ -100,17 +110,7 @@
 
 ###
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
+
 
 ###
 <picture>
