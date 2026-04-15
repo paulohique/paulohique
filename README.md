@@ -1,20 +1,68 @@
-<h1 align="center">Olá! Como Vai?</h1>
+<h1 align="center">Hi, I'm Paulo Henrique</h1>
 
 ###
 
 <p align="center">
-  Sou <strong>Paulo Henrique Ferreira dos Santos</strong>, desenvolvedor de software com foco em construir soluções web funcionais, modernas e com boa experiência de uso.
+  <strong>Full Stack Developer focused on building real-world solutions</strong>
 </p>
 
 <p align="center">
-  Tenho experiência prática com <strong>Next.js, TypeScript, Python e APIs REST</strong>, além de atuar com versionamento, organização de código e evolução contínua dos projetos.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2F80ED&center=true&vCenter=true&width=720&lines=Backend%2C+Mobile+and+Web+Development;API+Integrations+and+End-to-End+Systems;Computer+Vision%2C+Automation+and+Practical+Solutions" alt="Typing SVG with development focus" />
 </p>
 
 <p align="center">
-  Estou em busca de oportunidades como <strong>Desenvolvedor Júnior/Estagiário</strong>, onde eu possa gerar impacto real, aprender com times experientes e crescer junto com o produto.
+  <code>Clean APIs</code>
+  <code>Mobile flows</code>
+  <code>Automation</code>
+  <code>Maintainable systems</code>
 </p>
 
 ###
+
+<h3 align="center">About my work</h3>
+
+<p align="center">
+  Computer Science graduate with hands-on experience in complete projects, from planning and development to delivery.
+</p>
+
+<p align="center">
+  I have worked on backend services, mobile applications, API integrations and end-to-end systems,
+  with a strong focus on performance, organization and maintainability.
+</p>
+
+<p align="center">
+  My stack includes Python, Node.js, React Native and databases, plus practical experience with
+  Computer Vision using OpenCV and process automation.
+</p>
+
+<p align="center">
+  Open to new challenges, freelance opportunities and impactful projects where I can contribute
+  with real results and keep growing technically.
+</p>
+
+###
+
+<h3 align="center">What I build</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>Backend</strong></td>
+      <td align="center"><strong>Mobile</strong></td>
+      <td align="center"><strong>Automation</strong></td>
+    </tr>
+    <tr>
+      <td align="center">APIs, integrations, services and database-driven systems.</td>
+      <td align="center">React Native applications focused on usable and maintainable flows.</td>
+      <td align="center">Computer Vision, OpenCV experiments and process automation.</td>
+    </tr>
+  </table>
+</div>
+
+###
+
+<h3 align="center">Technologies and tools</h3>
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -60,9 +108,12 @@
 
 ###
 
+<h3 align="center">Contact and portfolio</h3>
+
+
 <div align="center">
 
-  <a href="https://linkedin.com/in/paulo-henrique-ferreira-dos-santos" target="_blank">
+  <a href="https://www.linkedin.com/in/paulo-hfsantos" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 
@@ -76,6 +127,10 @@
 
   <a href="https://instagram.com/phfsants" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+
+  <a href="https://paulohique.vercel.app/#projetos" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
   </a>
 
 </div>
@@ -94,9 +149,9 @@
 
 ###
 
+<h3 align="center">GitHub activity</h3>
 
 
-###
 
 <div align="center">
 
@@ -110,9 +165,10 @@
 
 ###
 
+<h3 align="center">Contribution graph</h3>
 
 
-###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulohique/paulohique/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulohique/paulohique/output/pacman-contribution-graph.svg">
