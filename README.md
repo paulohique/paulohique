@@ -151,16 +151,19 @@
 
 <h3 align="center">GitHub activity</h3>
 
-
+<p align="center">
+  <sub>Public activity, languages, commits and productive time across my repositories.</sub>
+</p>
 
 <div align="center">
-
-  <img src="https://github-readme-stats.shion.dev/api?username=paulohique&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulohique&theme=github_dark" alt="GitHub profile details" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=paulohique&theme=dark&hide_border=false" />
   <br />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=paulohique&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
+  <img width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paulohique&theme=github_dark" alt="Top languages by repository" />
+  <img width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paulohique&theme=github_dark" alt="Top languages by commit" />
+ 
+  <img width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paulohique&theme=github_dark" alt="GitHub stats" />
+  <img width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paulohique&theme=github_dark&utcOffset=-3" alt="Productive time" />
 </div>
 
 ###
